@@ -1,3 +1,7 @@
+@media (max-width: 767px) {
+    html{font-size: 90%;}
+}
+
 footer {
     background-color: #191919;
     color: white;
@@ -16,4 +20,41 @@ footer a {
 
 footer a:hover {
     color: grey;
+}
+
+.carousel-caption {
+    top: 4.5rem;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.sectionDark {
+    background-color: #e0e0e0;
+    padding: 5rem;
+}
+
+.sectionLight {
+    background-color: white;
+    padding: 5rem;
+}
+
+hr.style-eight {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}
+
+.borderBelowHeader {
+    margin-top: 2rem;
 }
