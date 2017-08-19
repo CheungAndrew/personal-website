@@ -1,0 +1,18 @@
+footer {
+    background-color: #191919;
+    color: white;
+    padding: 5rem;
+    text-decoration: none;
+}
+
+.fa {
+    margin: 0.5rem;
+}
+
+footer a {
+    color: inherit;
+}
+
+footer a:hover {
+    color: grey;
+}
