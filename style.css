@@ -1,5 +1,7 @@
 @media (max-width: 767px) {
     html{font-size: 90%;}
+    .sectionDark {padding: 2rem !important;}
+    .sectionLight {padding: 2rem !important;}
 }
 
 body {
