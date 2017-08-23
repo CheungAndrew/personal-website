@@ -64,3 +64,15 @@ hr.style-eight:after {
 .borderBelowHeader {
     margin-top: 2rem;
 }
+
+.icon-html5-alt {
+    color: orangered;
+}
+
+.icon-css3-alt {
+    color: #0080A5;
+}
+
+.icon-bootstrap {
+    color: #4B0082;
+}
