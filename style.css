@@ -1,4 +1,10 @@
-@media (max-width: 767px) {
+@media (max-width: 1024px) {
+    html{font-size: 90%;}
+    .sectionDark {padding: 4rem !important;}
+    .sectionLight {padding: 4rem !important;}
+}
+
+@media (max-width: 768px) {
     html{font-size: 90%;}
     .sectionDark {padding: 2rem !important;}
     .sectionLight {padding: 2rem !important;}
@@ -36,11 +42,15 @@ footer a:hover {
 .sectionDark {
     background-color: #e0e0e0;
     padding: 5rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
 }
 
 .sectionLight {
     background-color: white;
     padding: 5rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
 }
 
 hr.style-eight {
