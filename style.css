@@ -1,3 +1,8 @@
+@media (max-width: 1440px) {
+    .sectionDark {padding: 5rem 10rem !important;}
+    .sectionLight {padding: 5rem 10rem !important;}
+}
+
 @media (max-width: 1024px) {
     html{font-size: 90%;}
     .sectionDark {padding: 4rem !important;}
@@ -41,12 +46,12 @@ footer a {
 
 .sectionDark {
     background-color: #e0e0e0;
-    padding: 5rem 8rem;
+    padding: 5rem 16rem;
 }
 
 .sectionLight {
     background-color: white;
-    padding: 5rem 8rem;
+    padding: 5rem 16rem;
 }
 
 hr.style-eight {
