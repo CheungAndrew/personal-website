@@ -14,7 +14,7 @@ body {
     font-family: "Playfair Display", serif;
 }
 
-footer {
+.footer {
     background-color: #191919;
     color: white;
     padding-top: 5rem;
@@ -30,7 +30,7 @@ footer a {
     color: inherit;
 }
 
-footer a:hover {
+.footer a:hover {
     color: grey;
 }
 
@@ -41,16 +41,12 @@ footer a:hover {
 
 .sectionDark {
     background-color: #e0e0e0;
-    padding: 5rem;
-    padding-left: 8rem;
-    padding-right: 8rem;
+    padding: 5rem 8rem;
 }
 
 .sectionLight {
     background-color: white;
-    padding: 5rem;
-    padding-left: 8rem;
-    padding-right: 8rem;
+    padding: 5rem 8rem;
 }
 
 hr.style-eight {
@@ -86,3 +82,8 @@ hr.style-eight:after {
 .icon-bootstrap {
     color: #4B0082;
 }
+
+.experience, .aboutMeText {
+    font-size: 1.1rem;
+}
+
