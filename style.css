@@ -88,6 +88,14 @@ hr.style-eight:after {
     color: #4B0082;
 }
 
+.icon-jquery {
+    color: #3090C7;
+}
+
+.icon-javascript-alt {
+    color: #FFE13C;
+}
+
 .experience, .aboutMeText {
     font-size: 1.1rem;
 }
